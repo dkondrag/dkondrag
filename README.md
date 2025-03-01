@@ -19,7 +19,7 @@ I'm **Deepthi Kondragunta**, a passionate **Data Scientist & Software Engineer**
 ### 📬 Connect With Me  
 📧 Email: [dkondrag@buffalo.edu](mailto:dkondragunta@outlook.com)  
 🔗 LinkedIn: [linkedin.com/in/deepthi-kondragunta](https://www.linkedin.com/in/deepthi-kondragunta/)  
-🌍 Portfolio: [Your Portfolio Link Here]  
+
 
 💡 _"Turning data into insights, and insights into impact."_  
 
