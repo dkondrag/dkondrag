@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 About Me  
 
-<!--
-**dkondrag/dkondrag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Deepthi Kondragunta**, a passionate **Data Scientist & Software Engineer** with over **3 years of experience** in designing and architecting consumer-facing applications. My expertise spans across **Python, SQL, R, and cloud technologies (AWS, Azure)**, with a strong focus on **data science, machine learning, and AI**.  
 
-Here are some ideas to get you started:
+### 🚀 What I Do  
+- Develop and optimize **data pipelines, ETL workflows**, and **machine learning models**.  
+- Work with **big data technologies** like Hadoop (Cloudera), Spark, and distributed storage systems.  
+- Design **interactive dashboards** using **Power BI, Tableau**, and **QlikView**.  
+- Automate **CI/CD pipelines** and improve software development workflows.  
+- Solve real-world challenges in **telecommunications, healthcare, and climate change**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills  
+**Languages & Tools:** Python, SQL, R, MATLAB, Perl, Shell, JavaScript  
+**Data Science & ML:** Scikit-learn, TensorFlow, PySpark, Random Forest, XGBoost, LSTM  
+**Databases & Big Data:** MySQL, Hadoop (Cloudera), Redshift  
+**Cloud & DevOps:** AWS (Lambda, API Gateway, EC2, S3), Azure, Docker, Jenkins  
+**Data Visualization:** Power BI, Tableau, QlikView, MS Excel  
+
+### 📬 Connect With Me  
+📧 Email: [dkondrag@buffalo.edu](mailto:dkondrag@buffalo.edu)  
+🔗 LinkedIn: [linkedin.com/in/deepthi-kondragunta](https://www.linkedin.com/in/deepthi-kondragunta/)  
+🌍 Portfolio: [Your Portfolio Link Here]  
+
+💡 _"Turning data into insights, and insights into impact."_  
+
