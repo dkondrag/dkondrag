@@ -17,7 +17,7 @@ I'm **Deepthi Kondragunta**, a passionate **Data Scientist & Software Engineer**
 **Data Visualization:** Power BI, Tableau, QlikView, MS Excel  
 
 ### 📬 Connect With Me  
-📧 Email: [dkondrag@buffalo.edu](mailto:dkondrag@buffalo.edu)  
+📧 Email: [dkondrag@buffalo.edu](mailto:dkondragunta@outlook.com)  
 🔗 LinkedIn: [linkedin.com/in/deepthi-kondragunta](https://www.linkedin.com/in/deepthi-kondragunta/)  
 🌍 Portfolio: [Your Portfolio Link Here]  
 
