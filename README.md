@@ -1,6 +1,6 @@
 ## 👋 About Me  
 
-I'm **Deepthi Kondragunta**, a passionate **Data Scientist & Software Engineer** with over **3 years of experience** in designing and architecting consumer-facing applications. My expertise spans across **Python, SQL, R, and cloud technologies (AWS, Azure)**, with a strong focus on **data science, machine learning, and AI**.  
+I'm **Deepthi Kondragunta**, a passionate **Data Scientist & Software Engineer** with over **4 years of experience** in designing and architecting consumer-facing applications. My expertise spans across **Python, SQL, R, and cloud technologies (AWS, Azure)**, with a strong focus on **data science, machine learning, and AI**.  
 
 ### 🚀 What I Do  
 - Develop and optimize **data pipelines, ETL workflows**, and **machine learning models**.  
