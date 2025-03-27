@@ -10,9 +10,9 @@ I'm **Deepthi Kondragunta**, a passionate **Data Scientist & Software Engineer**
 - Solve real-world challenges in **telecommunications, healthcare, and climate change**.  
 
 ### 🛠️ Technical Skills  
-**Languages & Tools:** Python, SQL, R, MATLAB, Perl, Shell, JavaScript  
+**Languages & Tools:** Python, SQL, R, MATLAB, Perl, Shell, JavaScript 
 **Data Science & ML:** Scikit-learn, TensorFlow, PySpark, Random Forest, XGBoost, LSTM  
-**Databases & Big Data:** MySQL, Hadoop (Cloudera), Redshift  
+**Databases & Big Data:** MySQL, Hadoop (Cloudera), Redshift, Snowflake
 **Cloud & DevOps:** AWS (Lambda, API Gateway, EC2, S3), Azure, Docker, Jenkins  
 **Data Visualization:** Power BI, Tableau, QlikView, MS Excel  
 
