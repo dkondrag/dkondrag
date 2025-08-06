@@ -1,24 +1,24 @@
-## 👋 About Me  
+👋 About Me
 
-I'm **Deepthi Kondragunta**, a passionate **Data Analyst & data Engineer** with over **6+ years of experience** in designing and architecting consumer-facing applications. My expertise spans across **Python, SQL, R, and cloud technologies (AWS, Azure)**, with a strong focus on **data science, machine learning, and AI**.  
+I'm Deepthi Kondragunta, a passionate Data Analyst & Data Engineer with over 6+ years of experience in designing and architecting consumer-facing applications. My expertise spans across Python, SQL, R, and cloud technologies (AWS, Azure), with a strong focus on data science, machine learning, and AI.
+🚀 What I Do
+Develop and optimize data pipelines, ETL workflows (SSIS), and machine learning models.
+Build and manage operational and analytical reports using SSRS and Power BI.
+Work with big data technologies like Hadoop (Cloudera), Spark, and distributed storage systems.
+Design interactive dashboards with Power BI, Tableau, and QlikView for business insights.
+Automate CI/CD pipelines and enhance development workflows using Docker, Jenkins, and .NET familiarity.
+Tackle real-world challenges in telecommunications, healthcare, and climate change through data-driven solutions.
+🛠️ Technical Skills
+Languages & Tools: Python, SQL, R, MATLAB, Perl, Shell, JavaScript, .NET (familiar)
+Data Science & ML: Scikit-learn, TensorFlow, PySpark, Random Forest, XGBoost, LSTM
 
-### 🚀 What I Do  
-- Develop and optimize **data pipelines, ETL workflows**, and **machine learning models**.  
-- Work with **big data technologies** like Hadoop (Cloudera), Spark, and distributed storage systems.  
-- Design **interactive dashboards** using **Power BI, Tableau**, and **QlikView**.  
-- Automate **CI/CD pipelines** and improve software development workflows.  
-- Solve real-world challenges in **telecommunications, healthcare, and climate change**.  
+ETL & Reporting: SSIS, SSRS, Informatica, Talend
 
-### 🛠️ Technical Skills  
-**Languages & Tools:** Python, SQL, R, MATLAB, Perl, Shell, JavaScript 
+Databases & Big Data: MySQL, Hadoop (Cloudera), Redshift, Snowflake
 
-**Data Science & ML:** Scikit-learn, TensorFlow, PySpark, Random Forest, XGBoost, LSTM  
+Cloud & DevOps: AWS (Lambda, API Gateway, EC2, S3), Azure, Docker, Jenkins
 
-**Databases & Big Data:** MySQL, Hadoop (Cloudera), Redshift, Snowflake
-
-**Cloud & DevOps:** AWS (Lambda, API Gateway, EC2, S3), Azure, Docker, Jenkins  
-
-**Data Visualization:** Power BI, Tableau, QlikView, MS Excel  
+Data Visualization: Power BI, Tableau, QlikView, MS Excel
 
 ### 📬 Connect With Me  
 📧 Email: [dkondragagunta@outlook.com](mailto:dkondragunta@outlook.com)  
