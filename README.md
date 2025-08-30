@@ -9,12 +9,12 @@ I'm Deepthi Kondragunta, a passionate Data Analyst & Data Engineer with over 6+ 
 - Build and manage operational and analytical reports using SSRS and Power BI.  
 - Work with big data technologies like Hadoop (Cloudera), Spark, Databricks, and distributed storage systems.  
 - Design interactive dashboards with Power BI, Tableau, and QlikView for business insights.  
-- Automate CI/CD pipelines and enhance development workflows using Docker, Jenkins, and .NET familiarity.  
+- Automate CI/CD pipelines and enhance development workflows using Docker, Jenkins, and .NET. 
 - Tackle real-world challenges in telecommunications, healthcare, and climate change through data-driven solutions.  
 
 ## 🛠️ Technical Skills
 
-**Languages & Tools:** Python, SQL, R, MATLAB, Perl, Shell, JavaScript, .NET (familiar)  
+**Languages & Tools:** Python, SQL, R, MATLAB, Perl, Shell, JavaScript, .NET
 **Data Science & ML:** Scikit-learn, TensorFlow, PySpark, Random Forest, XGBoost, LSTM  
 **ETL & Reporting:** SSIS, SSRS, Informatica, Talend, Azure Data Factory, Databricks  
 **Databases & Big Data:** MySQL, Hadoop (Cloudera), Redshift, Snowflake  
