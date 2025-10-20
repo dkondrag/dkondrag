@@ -1,6 +1,6 @@
 # 👋 About Me
 
-I'm Deepthi Kondragunta, a passionate Data Analyst & Data Engineer with over 6+ years of experience in designing and architecting consumer-facing applications. My expertise spans across Python, SQL, R, and cloud technologies (AWS, Azure), with a strong focus on data science, machine learning, and AI.
+I'm Deepthi Kondragunta, a passionate Data Analyst & Data Engineer  experience in designing and architecting consumer-facing applications. My expertise spans across Python, SQL, R, and cloud technologies (AWS, Azure), with a strong focus on data science, machine learning, and AI.
 
 ## 🚀 What I Do
 
